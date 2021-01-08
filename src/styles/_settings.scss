@@ -12,6 +12,7 @@ $white: #ddd;
 
 $borderRadius: 25px;
 $minHeigth: 95vh;
+$shadow: 0 1px 3px #333;
 
 @mixin verticalCenter {
     display: flex;

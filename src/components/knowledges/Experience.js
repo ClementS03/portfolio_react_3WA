@@ -4,7 +4,7 @@ const Experience = () => {
     return (
         <div className="experience">
             <h3>Experience</h3>
-            <div className="exp-2">
+            <div className="exp-1">
                 <h4>Projet de fin de formation</h4>
                 <h5>2020</h5>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, pariatur eveniet nisi quod voluptatum quis ipsam velit eaque ea dolor, nemo rem error. Maxime nostrum ut, deserunt enim necessitatibus eum!</p>
